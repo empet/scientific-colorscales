@@ -268,7 +268,7 @@ vik=[[0.0, 'rgb(1, 18, 97)'],
      [0.95, 'rgb(111, 41, 1)'],
      [1.0, 'rgb(97, 18, 0)']]
 
-""" Special colorscale, oleron, that is a concatenation of two
+""" Special colorscale, oleron,  a concatenation of two
 sequential colorscales """
 
 oleron=[[0.0, 'rgb(26, 38, 89)'],

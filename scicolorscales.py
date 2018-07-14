@@ -4,7 +4,19 @@ converted to Plotly colorscales """
 
 """Sequential scientific colorscales"""
 
-bilbao= [[0.0, 'rgb(255, 255, 255)'],
+acton=[[0.0, 'rgb(46, 33,77)'],
+       [0.1, 'rgb(72, 56, 100)'],
+       [0.2, 'rgb(102, 80, 123)'],
+       [0.3, 'rgb(135, 96, 141)'],
+       [0.4, 'rgb(166, 102, 148)'],
+       [0.5, 'rgb(196, 110, 155)'],
+       [0.6, 'rgb(212, 134, 173)'],
+       [0.7, 'rgb(212, 156, 189)'],
+       [0.8, 'rgb(213, 178, 205)'],
+       [0.9, 'rgb(220, 204, 222)'],
+       [1.0, 'rgb(230, 230, 240)']]
+
+bilbao= [[0.0,'rgb(255, 255, 255)'],
          [0.1, 'rgb(220, 220, 220)'],
          [0.2, 'rgb(198, 195, 183)'],
          [0.3, 'rgb(188, 180, 149)'],
@@ -268,7 +280,7 @@ vik=[[0.0, 'rgb(1, 18, 97)'],
      [0.95, 'rgb(111, 41, 1)'],
      [1.0, 'rgb(97, 18, 0)']]
 
-""" Special colorscale, oleron,  a concatenation of two
+""" Special colorscale, oleron, that is a concatenation of two
 sequential colorscales """
 
 oleron=[[0.0, 'rgb(26, 38, 89)'],
